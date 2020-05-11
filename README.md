@@ -10,10 +10,13 @@ Veritabanı Mysql olup Hibernate teknolojisi kullanılmıştır.<br><b>Kütüpha
 
 
 <b>Giriş</b>
+
 <img src="https://github.com/eminsaygi/KutuphaneAsistani/blob/master/images/giriş.PNG"></a>
 
 <b>Kayıt Ol</b>
+
 <img src="https://github.com/eminsaygi/KutuphaneAsistani/blob/master/images/kayıt.PNG"></a>
 
 <b>Ana Gövde</b>
+
 <img src="https://github.com/eminsaygi/KutuphaneAsistani/blob/master/images/ana%20ekran.PNG"></a>

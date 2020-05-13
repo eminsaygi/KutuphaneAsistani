@@ -8,6 +8,7 @@ Arayüz Java Swing ile geliştirilmiştir.
 MVC mimari deseni kullanılmıştır.
 Veritabanı Mysql olup Hibernate teknolojisi kullanılmıştır.<br><b>Kütüphane Asistanı içinden Görüntüler</b>
 
+<b>Kullanım kılavuzu ve Bilgi : https://pastebin.pl/view/7562e1ef
 
 <b>Giriş</b>
 
